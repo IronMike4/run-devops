@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+fbF3lqSfhr4y4FBxeXjPQ9dQpnOjtuqsRSC7VnBv8EouHYUiwvGxeL7pM/anSz/JnOySnrmORAcvJF1TYVqKA==",
+  "dgSpecHash": "hAvCn3UKSEMuqjiqe3mo5+29mhx95NW4iAKyEIlA8+oDKom4qzFpMtUfzUqPBhrGrN8i9DJxjoPgRlbBKRukIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\michaelmah\\OneDrive - Derivco (Pty) Limited\\Documents\\Training\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\michaelmah\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
   "logs": []
 }
